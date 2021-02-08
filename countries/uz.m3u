@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UZ" tvg-language="" tvg-logo="https://azon.uz/assets/main/img/azon-tv.png" tvg-url="" group-title="",Azon TV
+http://tv2.azon.uz/high/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" tvg-url="" group-title="",Biz Cinema
+https://st.biztv.uz/hls/c_mid/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-music.0b7f3d40.png" tvg-url="" group-title="",Biz Music
+https://st.biztv.uz/hls/m_mid/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://biztv.uz/static/media/biz-tv.774e87b5.png" tvg-url="" group-title="",Biz TV
+https://st.biztv.uz/hls/stream_mid/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="http://milliy.tv/assets/images/logo.png" tvg-url="" group-title="",Milliy (480p)
+http://milliy.tv/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ASIA;EUR;AFR;AU;NORAM" tvg-language="English" tvg-logo="https://i.imgur.com/ibUfEGr.png" tvg-url="" group-title="Religious",Peace TV English
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AF;SAS;CAS;MIDEAST;EUR;AFR" tvg-language="Pushto" tvg-logo="https://i.imgur.com/XkLlmcf.jpg" tvg-url="" group-title="",Shamshad TV (512p)
+https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CIS;EUR" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="",Беларусь 24 (720p)
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8

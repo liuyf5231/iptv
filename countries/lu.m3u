@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-country="MENA;EUR;NORAM;AU" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Abu Dhabi TV (1080p)
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Canvas BE" tvg-name="Canvas BE" tvg-country="BE;LU;NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" tvg-url="" group-title="",Canvas (540p)
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LU" tvg-language="Luxembourgish" tvg-logo="https://i.imgur.com/YldMnap.jpg" tvg-url="" group-title="",Chamber TV (576p)
+https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="eldo.lu" tvg-name="" tvg-country="LU" tvg-language="Luxembourgish" tvg-logo="https://i.imgur.com/4ntor8S.png" tvg-url="" group-title="",Eldoradio TV (720p)
+https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="een BE" tvg-name="een BE" tvg-country="BE;LU;NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/hWfo6az.png" tvg-url="" group-title="",Eén (540p)
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EUR" tvg-language="German" tvg-logo="https://i.imgur.com/UxISEZf.png" tvg-url="" group-title="",GoTV (576p)
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LU" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-url="" group-title="XXX",Jasmin TV (720p)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LU" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-url="" group-title="XXX",Jasmin TV (720p)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Ketnet BE" tvg-name="Ketnet BE" tvg-country="BE;LU;NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/Du0YAJS.png" tvg-url="" group-title="",Ketnet (540p)
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BE;LU;NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/eDYaphB.png" tvg-url="" group-title="",Ketnet Junior (720p)
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ASIA;EUR;AFR;AU;NORAM" tvg-language="English" tvg-logo="https://i.imgur.com/ibUfEGr.png" tvg-url="" group-title="Religious",Peace TV English
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LU" tvg-language="Luxembourgish" tvg-logo="https://i.imgur.com/H9dHlfv.png" tvg-url="" group-title="",RTL Télé Lëtzebuerg (720p)
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LU" tvg-language="Luxembourgish" tvg-logo="https://i.imgur.com/42f0krb.png" tvg-url="" group-title="",RTL Zwee (720p)
+https://live-edge.rtl.lu/channel1/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-country="BE;LU" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-url="" group-title="",RTL-TVi (720p)
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AF;SAS;CAS;MIDEAST;EUR;AFR" tvg-language="Pushto" tvg-logo="https://i.imgur.com/XkLlmcf.jpg" tvg-url="" group-title="",Shamshad TV (512p)
+https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CIS;EUR" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="",Беларусь 24 (720p)
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8

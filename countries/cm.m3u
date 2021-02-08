@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CM" tvg-language="" tvg-logo="https://i.imgur.com/BMB9xq3.png" tvg-url="" group-title="",Conso TV Afrique
+http://connectiktv.ddns.net:5000/consotv/consotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CM" tvg-language="" tvg-logo="https://i.imgur.com/REJJHir.jpg" tvg-url="" group-title="",Emergence TV (480p)
+http://connectiktv.ddns.net:5000/emergencetv/emergencetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/BuKv5Vj.png" tvg-url="" group-title="",My TV Channel (576p)
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ASIA;EUR;AFR;AU;NORAM" tvg-language="English" tvg-logo="https://i.imgur.com/ibUfEGr.png" tvg-url="" group-title="Religious",Peace TV English
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" tvg-url="" group-title="Music",Play TV (480p)
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AF;SAS;CAS;MIDEAST;EUR;AFR" tvg-language="Pushto" tvg-logo="https://i.imgur.com/XkLlmcf.jpg" tvg-url="" group-title="",Shamshad TV (512p)
+https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/FekWmTu.jpg" tvg-url="" group-title="",Vision 4 (480p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
